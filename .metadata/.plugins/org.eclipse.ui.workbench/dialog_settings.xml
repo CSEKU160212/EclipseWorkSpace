@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="44" key="DIALOG_Y_ORIGIN"/>
+		<item value="600" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="EditorSelectionDialog">
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="459" key="dialogHeight"/>
+		<item value="959" key="dialogWidth"/>
+		<list key="textEntries">
+			<item value="2"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="1"/>
+		</list>
+		<list key="orderedElements">
+			<item value="org.eclipse.ui.preferencePages.ColorsAndFonts"/>
+			<item value="org.eclipse.ui.console.ConsoleView"/>
+			<item value="org.eclipse.ui.texteditor.TemplatesView"/>
+			<item value="org.eclipse.debug.ui.ConsolePreferencePage"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.preferences"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.ui.preferences"/>
+		</list>
+		<list key="textArray">
+			<item value="fon"/>
+			<item value="fo"/>
+			<item value="con"/>
+			<item value="conso"/>
+			<item value="templ"/>
+			<item value="consol"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item value="706" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="728" key="DIALOG_HEIGHT"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+		<item value="-36" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="PROJECT_LOC" key="WizardFileSystemResourceImportPage1.STORE_PATH_VARIABLE_NAME_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_CREATE_VIRTUAL_FOLDERS_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_LINKS_IN_WORKSPACE_ID"/>
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_PATH_VARIABLE_SELECTED_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\cseku\Desktop\Code\13. IO"/>
+			<item value="C:\Users\cseku\Desktop\Code\13. IO\Student - Array"/>
+			<item value="C:\Users\cseku\Desktop\Code\13. IO\Student"/>
+			<item value="C:\Users\cseku\Desktop\Code\9. Polymorphism\Employee"/>
+			<item value="C:\Users\cseku\Desktop\Code\9. Polymorphism\CD_Video_New"/>
+			<item value="C:\Users\cseku\Desktop\Code\8. Interfaces\Speaker"/>
+			<item value="C:\Users\cseku\Desktop\Code\8. Interfaces\Quiz"/>
+			<item value="C:\Users\cseku\Desktop\Code\8. Interfaces\Abstract Class"/>
+			<item value="C:\Users\cseku\Desktop\Code\6. ArrayList"/>
+			<item value="C:\Users\cseku\Desktop\Code\5. Inheritance"/>
+			<item value="C:\Users\cseku\Desktop\Code\4. Designing Classes"/>
+			<item value="C:\Users\cseku\Desktop\Code\3. Creating Classes"/>
+			<item value="C:\Users\cseku\Desktop\Code\2. Using Objects"/>
+			<item value="C:\Users\LIMON_6378\Documents\TestShape\src"/>
+			<item value="C:\Users\LIMON_6378\Desktop\New Folder\TestShape\src"/>
+			<item value="C:\Users\LIMON_6378\Desktop\src"/>
+			<item value="C:\Users\LIMON_6378\Desktop\StudentQ"/>
+			<item value="C:\Users\LIMON_6378\Desktop\ProblrmSet4"/>
+			<item value="E:\OOP (JAVA) Code by Anis Sir\6. ArrayList"/>
+			<item value="E:\OOP (JAVA) Code by Anis Sir\Anis Sir\CD_Video_New"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,57 @@
+/**
+ * Auto Generated Java Class.
+ */
+import java.util.*;
+public class ResultSwitchCase {
+  
+  
+  public static void main(String[] args) { 
+    
+    Scanner N = new Scanner(System.in);
+    
+    int marks;
+    int r;
+    
+    marks = N.nextInt();
+    if(marks >=0 && marks <=100){
+    r = marks/10;
+    switch(r){
+    
+      case 1: 
+      case 2:
+      case 3:
+      System.out.println("F");
+      break;
+      case 4:
+     System.out.println("D");
+      break;
+      case 5:
+        System.out.println("C");
+      break;
+      case 6:
+        System.out.println("B-");
+      break;
+      case 7:
+        System.out.println("B");
+      break;
+      case 8:
+        System.out.println("A-");
+      break;
+      case 9:
+        System.out.println("A");
+      break;
+      default: 
+      System.out.println("A+");
+      
+    
+    
+    }
+    }
+    else if(marks<0 || marks>100)
+      System.out.println("Invalid Input");
+    
+  }
+  
+  /* ADD YOUR CODE HERE */
+  
+}

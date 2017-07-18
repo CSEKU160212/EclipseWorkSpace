@@ -1,0 +1,7 @@
+Problem Description::
+
+Design the missing MatchType Class which extends FarCry Class and implements Result Interface.
+
+ScoreDemo class only conatins the main method that generates the output.
+
+N.B. : No editing in FarCry class is permitted but you have to set necessary getter and setter in it.

@@ -1,0 +1,20 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class StringTest {
+  
+  
+  public static void main(String[] args) { 
+    
+    String phrase = new String("Bappi lahiri is a good singer.");
+    String mutation1, mutation2, mutation3, mutation4;
+    
+    System.out.println("Original string:\"" + phrase + "\"");
+    System.out.println("Length of string:" + phrase.length());
+    
+    
+  }
+  
+  /* ADD YOUR CODE HERE */
+  
+}

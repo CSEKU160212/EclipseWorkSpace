@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;UVA&apos;&#x0D;&#x0A;- Original project: &apos;UVA&apos;&#x0D;&#x0A;- Original element: &apos;UVA/src/Brick_game_p11875&apos;" description="Delete element" element1="/src&lt;Brick_game_p11875" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1474699065342" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+public class FileDemo {
+
+	public static void main(String[] args) {
+	
+		File file=new File();
+		for(Color i:file.colors){
+			System.out.println(i);
+		}
+	}
+
+}

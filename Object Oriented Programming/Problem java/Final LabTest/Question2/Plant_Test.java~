@@ -1,0 +1,28 @@
+
+public class Plant_Test {
+  
+  public static void main(String[] args){
+  Plant[] garden = new Plant[3];
+  garden[0] = new Plant("Vine");
+  //Create a Lotus plant with the name Vanity
+  // it will have 1024 leaves by default
+  garden[1] = new Lotus("Vanity");
+  //This one will have 2048 leaves
+  garden[2] = new Lotus("Pride", 2048);
+
+  for (Plant p: garden){
+   System.out.println(p.getName()); //print their names
+  }
+  //getRosemaries() returns the total number of rosemaries
+  //  that have been created.
+  System.out.println("There are " + Lotus.getNumRosemaries()
+    + " rosemary plants.");
+
+  Lotus r = new Lotus("Loathing");
+  System.out.println(r.getName());
+  System.out.println("There are " + Lotus.getNumRosemaries()
+    + " rosemary plants.");
+
+ }
+  
+}

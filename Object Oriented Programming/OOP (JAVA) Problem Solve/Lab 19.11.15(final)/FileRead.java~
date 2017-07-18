@@ -1,0 +1,11 @@
+public class FileRead{
+
+
+  public FileRead()
+  {
+   Scaner file = new Scanner(new File("file.txt"));
+  
+  
+  }
+
+}

@@ -1,0 +1,19 @@
+import util.java.Scanner;
+public class Hasmot {
+  
+  
+  public static void main(String[] args) { 
+    Scanner s=new Scanner(System.in);
+    long a,b;
+    while(s.hasNext())
+    {
+      a=s.nextLong();
+      b=s.nextLong();
+      System.out.println(a>b?a-b:b-a);
+    }
+    
+  }
+  
+  /* ADD YOUR CODE HERE */
+  
+}

@@ -1,0 +1,7 @@
+Problem Description::
+
+Design the missing GameDetail Class which extends GameName Class and implements GamePrice Interface.
+
+GameDemo class only conatins the main method that generates the output.
+
+N.B. : No editing in GameName class is permitted but you have to set necessary getter and setter in it.

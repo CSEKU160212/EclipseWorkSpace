@@ -1,0 +1,34 @@
+public class Lotus extends Plant implements Smell {
+
+ private int numLeaves;
+
+ private static int numCreated = 0;
+
+ public Lotus(String name) {
+  super("Lotus:" + name );
+  numLeaves = 1024;
+  numCreated++;
+ }
+
+ public Lotus(String name, int numLeaves) {
+  super("Lotus:" + name );
+  this.numLeaves= numLeaves;
+  numCreated++;
+ }
+
+ public String getName(){
+  return super.getName() + " numLeaves=" + numLeaves;
+ }
+
+ public static int getNumRosemaries(){
+  return numCreated;
+ }
+ 
+ public void smellOn(){
+   System.out.println("Smell of"+name+"has started spreading");
+ } 
+ public void smellOff(){
+   System.out.println("Smell of"+name+"has stopped spreading");
+ } 
+
+}

@@ -1,0 +1,17 @@
+1473004781941	Encapsulate field 'chargeInBattery'
+1473004922715	Encapsulate field 'colorString'
+1473041878098	Encapsulate field 'noOfLeg'
+1473041890825	Encapsulate field 'noOfEye'
+1473041901525	Encapsulate field 'noOfNose'
+1473041911951	Encapsulate field 'noOfHand'
+1473041923405	Encapsulate field 'humanitiesYesOrNo'
+1473042838699	Encapsulate field 'ownLandInAcore'
+1473042855904	Encapsulate field 'noOfKgRicePerYear'
+1473042865764	Encapsulate field 'noOfCow'
+1473044085961	Encapsulate field 'cGpa'
+1473044096039	Encapsulate field 'studentId'
+1473048798984	Delete element
+1473098410668	Delete element
+1473290446126	Encapsulate field 'threadAliveFlag'
+1473387865105	Convert local variable 'myScanner' to field
+1473435806086	Delete element

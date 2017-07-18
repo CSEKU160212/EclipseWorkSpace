@@ -1,0 +1,18 @@
+public class Shape {
+  
+  int h,w;
+  String c;
+  
+  public Shape(int height,int wide, String color)
+  {
+    this.h = height;
+    this.w = wide;
+    this.c = color;
+  }
+  
+  public String toString()
+  {
+    
+  }
+  
+}

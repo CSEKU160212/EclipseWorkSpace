@@ -1,0 +1,7 @@
+Problem Description::
+
+Complete the Color Class.
+
+Design the missing File Class which will take input from "color.txt" file and display output in console.
+
+N.B. : No editing in FileDemo class is permitted.

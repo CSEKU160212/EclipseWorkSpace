@@ -1,0 +1,7 @@
+Problem Description::
+
+Design the missing BandType Class which extends BandName Class.
+
+BandDemo class only conatins the main method that generates the output.
+
+N.B. : No editing in BandName class and BandDemo Class is permitted.

@@ -1,0 +1,15 @@
+public class GameDemo {
+
+	public static void main(String[] args) {
+		GameDetail.list.add(new GameDetail("IGI",500));
+		GameDetail.list.add(new GameDetail("NFS","SinglePlayer",1500));
+		GameDetail.list.add(new GameDetail("Far Cry","Multiplayer",1700));
+		GameDetail.list.add(new GameDetail("BF 3","MultiPlayer",2500));
+		
+		for(GameDetail i:GameDetail.list){
+			System.out.println(i);
+		}
+		System.out.println("Total Games: "+GameDetail.gNumber+"\n");
+	}
+
+}

@@ -1,0 +1,8 @@
+Question:::
+
+Implement the missing Mango class and JackFruit which extend Fruit class.
+
+FruitDemo class only conatins the main method that generates the output.
+
+
+N.B. : No editing in Fruit class is permitted but you have to set necessary getter and setter in it.

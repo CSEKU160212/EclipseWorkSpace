@@ -1,0 +1,10 @@
+Implement the missing Point2D, Point3D and PontList classes so that when we run PointTest it will print:
+
+
+X=1 Y=2 Z=3
+There are 3 points
+Point 1: X=0 Y=0
+Point 2: X=4 Y=5
+Point 3: X=1 Y=2 Z=7
+
+Note: Point3D is a subclass of Point2D. PointList class has an ArrayList type attribute to store a list of points. It utilizes polymorphism to store both 2D and 3D points in the same list. Use "super" in the Point3D constructors. getCount() is a static method of Point2D that returns the number of objects created. 

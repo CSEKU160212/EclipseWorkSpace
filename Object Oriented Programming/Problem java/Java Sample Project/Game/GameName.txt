@@ -1,0 +1,12 @@
+public class GameName {
+	public String gName;
+	private String gType="SinglePlayer";
+	
+	public GameName(String gName){
+		this.gName=gName;
+	}
+	
+	public String toString(){
+		return "Game Name: "+gName;
+	}
+}

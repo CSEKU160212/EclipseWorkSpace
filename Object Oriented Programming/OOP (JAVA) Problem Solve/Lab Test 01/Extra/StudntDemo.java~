@@ -1,0 +1,53 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class StudntDemo {
+  
+  String Name;
+  int Roll, Phy, Chem, Java;
+    
+    
+  
+  public Student(){
+     Name = new String ("Disha");
+     Roll = 26;
+     Phy = 77;
+     Chem = 87;
+     Java = 78;
+  }
+  
+  public Student(String name, int rl, int d1, int d2, int d3){
+  Name = name;
+  Roll = rl;
+  Phy = d1;
+  Chem = d2;
+  Java = d3;
+  }
+  
+  public void display(){
+  System.out.println("\t"+Name+"\t"+Roll+"\t"+Phy+"\t"+Chem+"\t"+Java);
+  }
+  
+  
+  
+  public void avg_marks_display(){
+    int avg = (Phy + Chem + Java)/3;
+  System.out.println("\tAverage marks of Disha is: "+avg);
+  }
+  
+  public static void main(String[] args) { 
+    
+     Student s1 = new Student();
+    Student s2 = new Student("Anis", 12, 58, 96, 41);
+    
+    System.out.println("\tName\tRoll\tPhy\tChem\tJava");
+    System.out.println("\t----\t---\t---\t----\t----");
+    
+    s1.display();
+    s2.display();
+    s1.avg_marks_display();
+    
+  }
+  
+  
+}

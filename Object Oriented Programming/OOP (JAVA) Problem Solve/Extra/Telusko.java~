@@ -1,0 +1,13 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class Telusko {
+  
+  
+  public static void main(String[] args) { 
+    Abc Fahim = new AbcImpl();
+  }
+  
+  /* ADD YOUR CODE HERE */
+  
+}

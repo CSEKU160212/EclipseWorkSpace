@@ -1,0 +1,23 @@
+Output:
+
+Game Name: Far Cry 2
+Game Type: Multiplayer
+Match Type: DeathMatch
+
+Players: Nephilim(Grenade Launcher) vs SKF(Assult Rifle)
+Kill(1st Player): 71
+Kill(2nd Player): 17
+Winner: Player one won
+Kill Ratio(1st/2nd): 4.176470588235294
+
+Players: Creatine(Assult Rifle) vs Spider(Assult Rifle)
+Kill(1st Player): 24
+Kill(2nd Player): 9
+Winner: Player one won
+Kill Ratio(1st/2nd): 2.6666666666666665
+
+Players: rCr(Sniper Rifle) vs Dijkstra(Shotgun)
+Kill(1st Player): 10
+Kill(2nd Player): 8
+Winner: Player one won
+Kill Ratio(1st/2nd): 1.25

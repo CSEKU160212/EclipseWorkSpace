@@ -1,0 +1,25 @@
+Output::
+
+Band Name: Green Day
+Band Type: Punk Rock
+Guiterists: 3
+Vocalist: 1
+Drumist: 1
+
+Band Name: System of a Down
+Band Type: Alternative metal
+Guiterists: 3
+Vocalists: 2
+Drumist: 1
+
+Band Name: Linkin Park
+Band Type: Alternative Rock
+Guiterists: 3
+Vocalists: 2
+Drumists: 2
+
+Total Guiterist: 9
+Total Vocalist: 5
+Total Drumist: 4
+Total Members: 18
+Total Bands: 3

@@ -1,0 +1,12 @@
+> run TestPerson
+Student: Tamim(Khanjahan Ali Hall)
+ CSE 1201:97 CSE 1202:99
+Average is 98.0
+Teacher: Anis(CSE, KU)
+
+CSE 1201 added.
+CSE 1202 added.
+CSE 1201 cannot be added.
+CSE 1201 removed.
+CSE 1202 removed.
+CSE 1201 cannot be removed.

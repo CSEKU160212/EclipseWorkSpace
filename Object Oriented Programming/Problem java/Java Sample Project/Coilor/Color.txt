@@ -1,0 +1,4 @@
+public class Color {
+	String color1;
+	String color2;
+	String newcolor;

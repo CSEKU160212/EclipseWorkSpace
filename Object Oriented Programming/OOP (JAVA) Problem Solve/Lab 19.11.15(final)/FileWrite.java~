@@ -1,0 +1,13 @@
+import java.io.FileOutputStream;
+import java.io.*;
+
+public class FileWrite{
+
+  public FileWrite()
+  {
+  
+  
+  
+  }
+
+}

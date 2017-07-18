@@ -1,0 +1,4 @@
+Triangle [height=10.0, width=5.0,Blue]
+Triangle Area is 25.0
+Rectangle [height=20.0, width=10.0,White]
+Rectangle Area is 200.0

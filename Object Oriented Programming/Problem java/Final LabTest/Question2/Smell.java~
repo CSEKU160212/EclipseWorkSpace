@@ -1,0 +1,6 @@
+public interface Smell { 
+void turnLeft(); 
+void turnRight();
+void moveBack(); 
+void accelerate();
+}

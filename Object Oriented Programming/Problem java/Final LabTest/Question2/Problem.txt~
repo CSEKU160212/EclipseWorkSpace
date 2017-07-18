@@ -1,0 +1,10 @@
+Implement the missing Lotus class so that when we run the code above it will print:
+
+Vine
+Rosemary:Vanity numLeaves=1024
+Rosemary:Pride numLeaves=2048
+There are 2 rosemary plants.
+Rosemary:Loathing numLeaves=1024
+There are 3 rosemary plants.
+
+See the comments in the code for hints on what the various methods and attributes Rosemary must have.

@@ -1,0 +1,24 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class Studentdemo {
+  
+  
+  public static void main(String[] args) { 
+    
+    
+    Student s1 = new Student();
+    Student s2 = new Student("Anis sir", 12, 58, 96, 41);
+    
+    System.out.println("\tName\tRoll\tPhy\tChem\tJAva);
+    System.out.println("\tName\tRoll\tPhy\tChem\tJAva);
+    
+    s1.display();
+    s2.display();
+    s1.avg_marks_display();
+    
+  }
+  
+  /* ADD YOUR CODE HERE */
+  
+}

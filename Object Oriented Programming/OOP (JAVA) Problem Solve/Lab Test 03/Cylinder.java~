@@ -1,0 +1,35 @@
+
+public class Cylinder extends Circle {
+    private double height;
+    Cylinder(){
+        super();
+        height=1.0;
+    }
+    Cylinder(double radius){
+        super(radius);
+        height=1.0;
+    }
+    Cylinder(double radius,double h){
+        super(radius);
+        this.height=h;
+    }
+    Cylinder(double radius,double h,String com){
+        super(radius,com);
+        this.height=h;
+    }
+    public double getHeight(){
+        return this.height;
+    }
+    public void setHeight(double h){
+        this.height=h;
+    }
+    
+    public double getVolume(){
+        double Volume=super.getArea()*height;
+        return Volume;
+    }
+    public String toString(){
+        return "Cylinder: Subclass of Circle "+super.toString()+"height "+height;
+    }
+
+}

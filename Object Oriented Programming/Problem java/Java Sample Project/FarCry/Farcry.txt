@@ -1,0 +1,13 @@
+public class FarCry {
+	String name;
+	private String type;
+	
+	public FarCry(String name) {
+		this.name=name;
+	}
+	
+	public String toString(){
+		return "Game Name: "+name+"\nGame Type: "+getType();
+	}
+
+}

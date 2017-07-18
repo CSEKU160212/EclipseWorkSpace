@@ -1,0 +1,25 @@
+
+
+import java.awt.*;
+import java.applet.*;
+import display.*;
+
+public class CountDownApplet extends Applet
+{
+  CountDown counter = null;
+  NumberCanvas display = null;
+
+  public void init() {
+    add(display=new NumberCanvas("CountDown"));
+    display.setSize(150,100);
+    counter = new CountDown(display);
+  }
+
+  public void start() {
+    counter.start();
+  }
+
+  public void stop() {
+    counter.stop();
+  }
+}

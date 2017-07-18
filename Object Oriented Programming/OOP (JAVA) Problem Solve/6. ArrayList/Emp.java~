@@ -1,0 +1,7 @@
+class Emp{
+    int eno;
+    public Emp(int no){
+        eno = no;
+        System.out.println("emp constructor called..eno is.."+eno);
+    }
+}

@@ -1,0 +1,10 @@
+Implement the missing Lotus class so that when we run the code above it will print:
+
+Vine is a plant 
+Lotus:Vanity has 1024 leaves  and it is not spreading smell 
+Lotus:Pride has 2048 leaves  and it is spreading smell 
+There are 3 plants. 
+Lotus:Loathing has 1024 leaves  
+There are 3 Lotus plants. 
+
+  Note: Lotus must implement Smell interface
